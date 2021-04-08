@@ -1,0 +1,21 @@
+#deltavx {
+    -webkit-appearance: slider-vertical;
+    width: 20px;
+    height: 100px;
+}
+
+#deltavy {
+    -webkit-appearance: slider-vertical;
+    width: 20px;
+    height: 100px;
+}
+
+.deltavx-wrap {
+    float: left;
+    width: 50%; /* 要素の幅を50%に定義 */
+}
+  
+.deltavy-wrap {
+    float: right;
+    width: 50%; /* 要素の幅を50%に定義 */
+}

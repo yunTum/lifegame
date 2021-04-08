@@ -1,3 +1,3 @@
-# lifegame
-This app represent  life of cell.
+# orbitSim
+This app is orbital simulator.
 Using Electron
